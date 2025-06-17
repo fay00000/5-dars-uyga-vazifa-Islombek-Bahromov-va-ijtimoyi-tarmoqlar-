@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Huninn&display=swap');
+
+body {
+    background-color: #ae112b;
+}
+
+.card {
+    text-align: center;
+
+}
+
+.card img {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+}
+
+.card h1 {
+    color: yellow;
+    font-size: 55px;
+    font-family: "Huninn", sans-serif;
+    font-weight: 400;
+}
+
+.card .icon {
+    font-size: 45px;
+    color: yellow;
+    margin: 0 15px;
+}
+
+.card .bi-telegram {
+    color: yellow;
+
+}
+
+.card .bi-instagram {
+color: yellow;
+}
+
+.card .bi-youtube {
+    color: yellow;
+}
